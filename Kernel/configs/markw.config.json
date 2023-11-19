@@ -10,7 +10,7 @@
     "toolchains": [
       {
         "name": "clang",
-        "url": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/master-kernel-build-2022/clang-r450784d.tar.gz",
+        "url": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/llvm-r383902b/clang-r383902.tar.gz",
         "binaryEnv": ["./bin"]
       }
     ],
