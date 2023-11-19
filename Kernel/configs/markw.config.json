@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "redmi note 10 5g",
+      "name": "redmi_note_10_5g",
       "repo": "https://github.com/yipiaoerguo/kernel_xiaomi_camellia",
       "branch": "camellia-r-oss",
       "device": "camellia",
