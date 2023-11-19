@@ -25,6 +25,7 @@
         "LD": "ld.lld",
         "AR": "llvm-ar",
         "NM": "llvm-nm",
+        "DTC_EXT": "dtc",
         "OBJCOPY": "llvm-objcopy",
         "OBJDUMP": "llvm-objdump",
         "READELF": "llvm-readelf",
