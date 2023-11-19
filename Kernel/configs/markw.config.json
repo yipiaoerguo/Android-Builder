@@ -9,7 +9,9 @@
     },
     "toolchains": [
       {
-        
+        "name": "clang",
+        "url": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/master-kernel-build-2022/clang-r450784d.tar.gz",
+        "binaryEnv": ["./bin"]
       }
     ],
     "enableCcache": true,
@@ -35,10 +37,10 @@
       }
     },
     "AnyKernel3": {
-      "use": true,
-      "release": true
+      "use": false,
+      "release": false
     },
-    "enableKernelSU": true,
-    "enableLXC": true
+    "enableKernelSU": false,
+    "enableLXC": false
   }
 ]
