@@ -5,7 +5,7 @@
       "repo": "https://github.com/yipiaoerguo/kernel_xiaomi_camellia",
       "branch": "camellia-r-oss",
       "device": "camellia",
-      "defconfig": "camellia_defconfig"
+      "defconfig": "yuan_defconfig"
     },
     "toolchains": [
       {
