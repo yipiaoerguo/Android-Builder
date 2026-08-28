@@ -370,5 +370,5 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           tag_name: ${{ env.KERNEL_NAME }}-${{ env.BUILD_DATE }}-Output
-          files: "${{ env.OUT_DIR }}/arch/${{ env.ARCH }}/boot/"
+          files: "${{ env.OUT_DIR }}/arch/${{ env.ARCH }}/boot/Image"
           generate_release_notes: true
