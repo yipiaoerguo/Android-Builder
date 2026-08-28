@@ -5,7 +5,7 @@
       "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
       "branch": "camellian-t-oss",
       "device": "camellia",
-      "defconfig": "camellia_defconfig"
+      "defconfig": "camellian_debug_defconfig"
     },
     "toolchains": [
       {
