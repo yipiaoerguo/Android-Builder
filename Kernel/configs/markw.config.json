@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "redmi_note_10_5g",
-      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
-      "branch": "camellian-t-oss",
+      "repo": "https://github.com/yipiaoerguo/Xiaomi_Kernel_OpenSource",
+      "branch": "camellia-r-oss",
       "device": "camellia",
       "defconfig": "camellian_debug_defconfig"
     },
